@@ -108,4 +108,4 @@ Through this project, I gained experience with:
 ## Author
 Anthony Sarna
 
-Python Developer | Aspiring Cybersecurity Analyst
+Python Developer | Aspiring Cybersecurity Professional
